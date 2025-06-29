@@ -8,6 +8,7 @@ Playwright version:1.53.1
 
 Running the Test
 Steps:
+
 1.To run the test Download the Node and npm as the above version mentioned.
 
 2.You can open the folder in the command and run the test , by entering the command as 
